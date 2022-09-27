@@ -106,18 +106,6 @@ npm run build default_theme
 > ⚠️Warning : on Windows, you must **not use** the default cmd
 > Otherwise, you may get an error when using the `npm run build` command.
 
-## Documentations
-
-Find some documentation on :
-
-- [https://doc.aquila-cms.com/](https://doc.aquila-cms.com/)
-- [https://aquila-cms.com/api-docs](https://www.aquila-cms.com/api-docs), the swagger documentation
-- On a local Aquila at **`/api-docs`**
-
-You can also check some tutorials on :
-
-- [Our dedicated page](https://www.aquila-cms.com/resources-documentation)
-- [Our youtube channel](https://www.youtube.com/channel/UCaPllnLkB6V6Jj89i40CrgQ)
 
 ## Contribute
 
